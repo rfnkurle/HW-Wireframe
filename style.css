@@ -6,7 +6,6 @@ body {
     font-size: 18px;
     text-align: center;
     margin-left: 100px;
-
 }
 
 
@@ -23,8 +22,7 @@ footer
     text-align: vertical;
     padding-top: 30px;
     margin-top: 10 px;
-
-    }
+}
 
     
 Section {
@@ -49,7 +47,6 @@ aside {
     width: 800px;
   padding: 20px;
   margin: 0 auto;
-
 }
 
 Footer {
@@ -58,7 +55,6 @@ Footer {
     clear: both;
     margin-left: 130px;
     text-align:center;
-    
 }
 
 article {
